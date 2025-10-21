@@ -1,7 +1,7 @@
 # 🔍 SmartClaim: Insurance Fraud Detection
 
 > An educational, end-to-end ML project for detecting fraudulent insurance claims.  
-> **Goal**: Build an explainable classifier that's simple enough to understand in one day.
+> **Goal**: Build an explainable simple classifier.
 
 ---
 
