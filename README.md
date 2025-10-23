@@ -4,6 +4,7 @@
 > **Goal**: Build an explainable simple classifier.
 
 ---
+<img width="1280" height="905" alt="image" src="https://github.com/user-attachments/assets/4fab52c8-33b6-446f-92cf-2fc483fbc62f" />
 
 ## 📋 What Is This?
 
